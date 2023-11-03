@@ -1,5 +1,6 @@
 ### Oii! Me chamo Vitor!
-- 🔭 Adoro Tecnologia e Ciências!
+- 🔭 Introdução a iniciação Ciência pela plataforma UFMG+
+- 💻 CC50 Curso de Ciência da Computação de Harvard
 
 
 
