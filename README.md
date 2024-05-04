@@ -1,6 +1,7 @@
-### Oii! Me chamo Vitor!
-- 🔭 Introdução a iniciação Ciência pela plataforma UFMG+
-- 💻 CC50 Curso de Ciência da Computação de Harvard
+### Oi, Meu nome é Vitor!
+#### Tenho curiosidade em como a tecnologia é usada descobrir, criar e resolver problemas da nossa vida ou num contexto geral. Não pretendo virar um 'DEV' mas estudo programação para usar como ferramenta auxiliar em minhas atividades.
+- 🔭 Introdução a iniciação científica pela plataforma UFMG+
+- 💻 Bootcamp
 
 
 
